@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Audit logs
+audit_log.jsonl
+logs/*.jsonl
